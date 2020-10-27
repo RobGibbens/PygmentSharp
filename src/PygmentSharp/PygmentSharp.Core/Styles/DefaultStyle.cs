@@ -32,6 +32,8 @@ namespace PygmentSharp.Core.Styles
             {TokenTypes.Operator, "#666666"},
             {TokenTypes.Operator.Word, "bold #AA22FF"},
             {TokenTypes.Name.Builtin, "#008000"},
+            {TokenTypes.Name, "#000000"},
+            {TokenTypes.Punctuation, "#000000"},
             {TokenTypes.Name.Function, "#0000FF"},
             {TokenTypes.Name.Class, "bold #0000FF"},
             {TokenTypes.Name.Namespace, "bold #0000FF"},
